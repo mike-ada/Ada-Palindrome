@@ -3,6 +3,8 @@
 Test and debug this palindrome project; to run the code you need to invoke/call/execute the palindrome arrow function
 Unfortunately, the developer did not adopt any clear standards in their code and now its your job to reformat, test and debug the project
 
+It is suggested that you create a new REPLIT Node project and upload the index.js file - you can folk it from here but will likely need to play around with the language details to ensure your are able to easily test your code.  Optionally, folk a REPLIT copy - see links in the classroom.
+
 Suggested Task Order:
 1. Run the code to see the current state
 2. Make a copy of the current code base; perhaps just duplicate the index page.
